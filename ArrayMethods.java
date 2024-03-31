@@ -46,7 +46,7 @@ public class ArrayMethods {
   public static void showArray(int[] numbers) {
     System.out.print("Sorted array: ");
     for (int num: numbers) {
-      System.out.print(num + " ");
+      System.out.print(num + ",");
     }
   }
 

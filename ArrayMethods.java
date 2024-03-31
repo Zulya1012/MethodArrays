@@ -26,7 +26,7 @@ public class ArrayMethods {
     squareElements(numbers);
     System.out.print("Squared array: ");
     for (int num: numbers) {
-      System.out.print(num + " ");
+      System.out.print(num + ",");
     }
     System.out.println();
   }
